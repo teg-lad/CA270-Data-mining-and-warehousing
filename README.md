@@ -5,6 +5,6 @@
 ##### Please find below links to the final reports for each project.    
 
 
-* [Classification Final](classfication/Adam-Tegart-CA270-Classification-Project)
-* [Clustering Final](clustering/CA270-Clustering-Report-Joseph_Adam)
-* [Data Warehousing Final](warehousing/)
+* [Classification Final](classfication/Adam-Tegart-CA270-Classification-Project.pdf)
+* [Clustering Final](clustering/CA270-Clustering-Report-Joseph_Adam.pdf)
+* [Data Warehousing Final](warehousing/CA270-Adam-Tegart-data-warehouse-report.pdf)
